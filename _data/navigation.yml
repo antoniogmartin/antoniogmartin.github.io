@@ -1,8 +1,16 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /posts/
+  - title: "Glossary"
+    url: /glossary/index.html
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
