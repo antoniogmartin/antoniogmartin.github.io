@@ -1,9 +1,10 @@
 ---
 layout: home
 author_profile: true
+title: My passion
 ---
 
-# My passion
+
 
 Currently I am following the steps I think will be better to build a career as a data engineer with data science knowledge.
 
@@ -12,7 +13,7 @@ Currently I am following the steps I think will be better to build a career as a
 
 
 Maybe it could sound strange. What I am trying to do is to earn the skills necessary to understand the data pipeline
-almost completly.Probably, I would focus in some parts but I find extremly exciting the process. Consequently,
+almost completly.  Probably, I would focus in some parts but I find extremly exciting the process. Consequently,
 This implies make my own career path.
 
 ## Education
