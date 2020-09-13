@@ -24,7 +24,7 @@ The Highlights are presented below:
 * 2012-2018 Computer engineering, University of Granada:
   * Speciality: Information systems (IS)
 
-* 2018-Currently: MS. Data Science, Universitat Oberta de Catalunya (UOC)
+* 2018-2020: MS. Data Science, Universitat Oberta de Catalunya (UOC)
 
 * Launguage Skills:
     * Spanish: First language
@@ -34,15 +34,15 @@ The Highlights are presented below:
 # My work
 
 
-Currently working as software developer in Stratio Big Data Inc. using **Devops** skills day by day.
+Currently working as software developer in Stratio Big Data Inc. using **Data science** and **software** skills day by day.
 
 
 My top tools in my work are:
 
 * Code: Intellij
 * Continuous Integration: Jenkins
-* Test: Testlink
+* Test: Testlink, scalatest, cucumber
 * Artifacts repository: Sonatype nexus
-* Version control : Git / Github
+* Version control : Git / Github, Gitlab
 * Cluster administration: Mesos
 
