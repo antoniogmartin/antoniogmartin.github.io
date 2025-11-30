@@ -11,14 +11,14 @@ I help organizations integrate collaborative best practices
 to transform AI models from experiments into production-ready
 software products that deliver business value.
 
-# My role
+### My role
 
 I am ML Engineer, my responsibility is to take machine learning models and transform them into production-ready systems. 
 They optimize models to maximize hardware efficiency (especially GPUs), design and implement 
 scalable ML pipelines, and collaborate to build robust deployment infrastructure to serve models as highly 
 available APIs that clients consume.
 
-## My tasks
+#### My tasks
 
 * Build and integrate ML solutions for Sports Models in betting sector.
 * Help build AI-powered automation tools or pipelines and propose improvements across the company 
@@ -30,12 +30,13 @@ available APIs that clients consume.
 * I am fluent in English, and have excellent communication skills. I can explain complex technical concepts to both technical and non-technical roles.
 
 
-## Education
+### Education
 
-### Master in Datascience, Oberta Catalunya University
-### Computer Engineering, Granada University
+Master in Datascience, Oberta Catalunya University
 
-## Certifications
+Computer Engineering, Granada University
+
+### Certifications
 
 * 2025: [MLOps Zoomcamp](https://certificate.datatalks.club/mlops-zoomcamp/2025/7dc4de5f4135745ddd88e47e00cc08d7d2cb6609.pdf)
 * 2024: [Fundamentals of Accelerated Computing with CUDA C/C++]()
