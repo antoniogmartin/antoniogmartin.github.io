@@ -1,48 +1,46 @@
 ---
 layout: home
 author_profile: true
-title: My passion
+title: How I work
 ---
 
 
+Mastering your company's AI lifecycle isn't easy.
+It demands structure. Clear roles. Specialized expertise.
+I help organizations integrate collaborative best practices
+to transform AI models from experiments into production-ready
+software products that deliver business value.
 
-Currently I am following the steps I think will be better to build a career as a data engineer with data science knowledge.
+# My role
 
+I am ML Engineer, my responsibility is to take machine learning models and transform them into production-ready systems. 
+They optimize models to maximize hardware efficiency (especially GPUs), design and implement 
+scalable ML pipelines, and collaborate to build robust deployment infrastructure to serve models as highly 
+available APIs that clients consume.
 
-## What is that?
+## My tasks
 
+* Build and integrate ML solutions for Sports Models in betting sector.
+* Help build AI-powered automation tools or pipelines and propose improvements across the company 
+* Own the full lifecycle of ML solutions: data ingestion / processing → feature engineering → model development → deployment → iteration
+* Maintain and improve our existing codPassion for MLOps practices in deep learning product development. I work expanding our internal ML libraries and pipelines
+* Continuously research and stay up-to-date with the latest developments in AI and large language models, utilizing innovative techniques and methodologies to enhance  models.
+* Take end to end ownership of large and scalable machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems.
+* Collaborate with cross-functional teams to tackle complex use cases using agents and RAG pipelines
+* I am fluent in English, and have excellent communication skills. I can explain complex technical concepts to both technical and non-technical roles.
 
-Maybe it could sound strange. What I am trying to do is to earn the skills necessary to understand the data pipeline
-almost completly.  Probably, I would focus in some parts but I find extremly exciting the process. Consequently,
-This implies make my own career path.
 
 ## Education
 
-In my opinion the foundations of your career are composed by education and projects.
-The Highlights are presented below:
+### Master in Datascience, Oberta Catalunya University
+### Computer Engineering, Granada University
 
-* 2012-2018 Computer engineering, University of Granada:
-  * Speciality: Information systems (IS)
+## Certifications
 
-* 2018-2020: MS. Data Science, Universitat Oberta de Catalunya (UOC)
-
-* Launguage Skills:
-    * Spanish: First language
-    * English: level B2
-
-
-# My work
-
-
-Currently working as software developer in Stratio Big Data Inc. using **Data science** and **software** skills day by day.
-
-
-My top tools in my work are:
-
-* Code: Intellij
-* Continuous Integration: Jenkins
-* Test: Testlink, scalatest, cucumber
-* Artifacts repository: Sonatype nexus
-* Version control : Git / Github, Gitlab
-* Cluster administration: Mesos
-
+* 2025: [MLOps Zoomcamp](https://certificate.datatalks.club/mlops-zoomcamp/2025/7dc4de5f4135745ddd88e47e00cc08d7d2cb6609.pdf)
+* 2024: [Fundamentals of Accelerated Computing with CUDA C/C++]()
+* 2024: [Fundamentals of Deep Learning]()
+* 2023: [Databricks Certified Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/49a888ce-17a5-472a-a844-e5795ec0a197)
+* 2021: [Natural Language Processing with Sequence Models]()
+* 2021: [Natural Language Processing with Probabilistic Models]()
+* 2020: [Natural Language Processing with Classification and Vector Spaces]()

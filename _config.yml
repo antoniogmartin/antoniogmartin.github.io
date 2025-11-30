@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Guzmán Martín"
-  avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Learning machine learning"
-  location         : "Madrid, Spain"
+  avatar           : "/assets/images/bio_photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Machine Learning Engineer"
+  location         : "Málaga, Spain"
   email            :
   links:
     - label: "Email"
